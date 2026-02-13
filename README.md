@@ -66,3 +66,8 @@ Author
 
 Esther Menéndez
 Physics-based Simulation & Numerical Methods
+
+## Simulation Preview
+
+![SoftBody Simulation](media/softbody_simulation.gif)
+
